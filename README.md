@@ -13,7 +13,7 @@ This project aims to apply the following functionalities:
 3. Learn to connect the console interface and modules.
 4. Practice calling functions with parameters and calling functions from other functions (function composition).
 5. Receive user data by console.
-6. Enter the math library for some operations.
+6. Enter the [math library](https://docs.python.org/3/library/math.html) for some operations.
 7. Practice operators between numbers and strings.
 
 ## How does it work?
